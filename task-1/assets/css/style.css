@@ -43,6 +43,7 @@
     background-size: cover;
     transition-duration: 2s;
     transition-property: width,height;
+    transition-timing-function: cubic-bezier(0.7, 0.04, 0.66, 1.71);
     background-image: url(https://th.bing.com/th/id/OIP.j-OJj9TefSHS788OFC_EoQAAAA?w=188&h=282&c=7&o=5&dpr=2&pid=1.7);
 }
 .box-3:hover{
